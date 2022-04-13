@@ -1,7 +1,8 @@
 # GFT_CSuisse
 
-Problem: Categorize trades in a bank´s portfolio 
-A bank has a portfolio of thousands of trades and they need to be categorized. A trade is a commercial negotiation between a bank and a client. A trade has many characteristics, including:
+# Problem: Categorize trades in a bank´s portfolio 
+# A bank has a portfolio of thousands of trades and they need to be categorized. A trade is a commercial negotiation between a bank and a client. 
+# A trade has many characteristics, including:
 ...
 Question 1: Write a C# console application using object oriented design that classifies all trades in a given portfolio. Keep in mind that the real application may have dozens of categories, so your design must be extensible allowing those categories to be easily added/removed/modified in the future
 ...
